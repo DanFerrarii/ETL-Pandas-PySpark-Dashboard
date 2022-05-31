@@ -29,6 +29,6 @@ Projeto individual desenvolvido no curso de Engenharia de dados na SoulCode Acad
 *Nível DataStudio*
 * Construir um dashboard (maximo 1 pagina) para apresentação dos insights
 
-*Ferramentas*
+*Ferramentas*\
 Colab ou Ides | Google Cloud | Data Studio
 
