@@ -32,3 +32,4 @@ Projeto individual desenvolvido no curso de Engenharia de dados na SoulCode Acad
 *Ferramentas*\
 Colab ou Ides | Google Cloud | Data Studio
 
+Dashboard interativa Data Studio: https://datastudio.google.com/reporting/ccf5297f-80ef-4582-8798-231351fa36a6/page/V06tC
